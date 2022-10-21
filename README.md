@@ -1,7 +1,7 @@
 # Horiseon - Website
 
 ## Description 📑
-This is Module 1 Challenge in the Trilogy's Skills Bootcamp I am part of. This challenge focuses on accessibility in web design. 
+This webpage focuses on my skills on accessibility in web design. I wanted to challenge myself. 
 
 ## Why is accessbility important in web design? 😲
 Web accessibility is an increasingly important consideration for businesses. 
