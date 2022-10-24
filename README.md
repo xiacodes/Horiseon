@@ -13,4 +13,4 @@ Making a website accessible is also good for business for many reasons, one of t
 It also helps companies avoid litigation that can occur when people with disabilities cannot access their website.
 
 ## What the site looks like 🖥
-![a screenshot of the webpage](assets/images/screenshot.png)
+![a screenshot of the webpage](Assets/images/screenshot.png)
